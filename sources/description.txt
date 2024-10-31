@@ -1,0 +1,13 @@
+Post Recycle
+
+To use this plugin you should have at least <a href="http://codecanyon.net/item/the-countdown-pro/3228499?ref=zourbuth">The Countdown Pro</a> version 1.3. 
+The cycle functionality can easily be added to a sidebar using widget or in your content using the shortcode. This addon plugin supports all custom post type, 
+and will hide your post content until it reaches the time. Your content will be displayed with a duration.
+Listing all the post that have expiration can be done with widget or shortcode. All styles and scripts area pulled in the header section. 
+Every each counter have their own selector that enables you to create spesifics style or script to the selector.
+
+<h5><strong>Support and Features Request</strong></h5>
+This plugin does not match to your site style? Is this script not quite working as it should? 
+Having trouble installing? Or need some custom modifications that aren’t already included? 
+Or you want more features on next release? Feel free to get in touch about any of your queries via 
+<a href="http://codecanyon.net/user/zourbuth?ref=zourbuth">profile page</a>.
